@@ -21,7 +21,7 @@ Jalankan migrate
 
 Anda wajib menggunakan https://mailtrap.io/ Kemudian buka Inbox dan SMTP Setting lalu integrations pilih Codeigniter
 
-Buka File ```Email.php``` kemudian ubah username dan password disesuaikan dengan SMTP username dan password pada website tersebut.
+Buka File ```App/Config/Email.php``` kemudian ubah username dan password disesuaikan dengan SMTP username dan password pada website tersebut.
 
 ## Running Application
 
