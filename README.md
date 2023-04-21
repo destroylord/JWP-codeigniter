@@ -33,5 +33,7 @@ Buka browser and menjalankan Codeigniter
 ```
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Example Email Forgot-Password
+
+![App Screenshot](https://github.com/destroylord/JWP-codeigniter/blob/main/public/email.PNG)
 
